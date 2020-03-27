@@ -4,7 +4,7 @@ Assessment of COVID-19 Experiences (ACE) for Adolescents
 Jenn Pfeifer (University of Oregon, Center for Translational Neuroscience, Psychology; @jennDSN) 
 Cecile Ladouceur (University of Pittsburgh, Psychiatry and Psychology; @CD_Ladouceur)
 
-This repo is designed to track and facilitate research on adolescent responses to the COVID-19 pandemic. 
+This repo is designed to track and facilitate research on adolescent experiences and responses to the COVID-19 pandemic. 
 
 If you share the tracker, please link to this page, so we have redundancy in the case of any Google Sheets problems.
 
