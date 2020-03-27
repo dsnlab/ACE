@@ -1,2 +1,2 @@
 # RACE
-Rapid Assessment of COVID-19 Experiences in Adolescence
+Rapid Assessment of COVID-19 Experiences for Adolescents
